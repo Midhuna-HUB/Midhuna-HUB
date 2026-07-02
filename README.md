@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Midhuna S</h1>
+<h1 align="center">
+  Hi 👋 I'm <span style="color:#7F3FBF;">Midhuna S</span>
+</h1>
+
 <h3 align="center">
 AI Student | Web Developer | Data Analyst | Aspiring AI Engineer
 </h3>
 
----
-
-## ✨ Typing Animation
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Student;Web+Developer;Data+Analyst;Aspiring+AI+Engineer;Python+%7C+SQL+%7C+Web+Tech&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=650&lines=AI+%26+Web+Enthusiast;Python+%7C+SQL+%7C+JavaScript;Learning+by+Building;Welcome+to+my+GitHub!">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Pursuing **B.Sc Computer Science with Artificial Intelligence**
-- 🏫 *Shrimathi Devkunvar Nanalal Bhatt Vaishnav College for Women*
-- 📅 Expected Graduation: **2027**
-- 🤖 Interested in **AI, Data Analytics, and Web Development**
-- 💡 Enjoy building **chatbots, websites, and smart systems**
-- 🌱 Always learning and improving my technical skills
+- 🎓 **B.Sc Computer Science with Artificial Intelligence**
+- 🏫 Shrimathi Devkunvar Nanalal Bhatt Vaishnav College for Women
+- 📅 Graduation: **2027**
+- 🌱 Learner & **Aspiring Developer**
+- 💡 Interested in **AI, Data Analytics & Web Development**
+- 🤖 Enjoy building **chatbots, websites & IoT projects**
 
 ---
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/midhuna18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/midhuna18">
+    <img src="https://img.shields.io/badge/LinkedIn-Midhuna-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
@@ -37,48 +37,44 @@ AI Student | Web Developer | Data Analyst | Aspiring AI Engineer
 </p>
 
 **Also familiar with:**  
-- SQL  
-- AI & ML Basics  
-- Rule-Based Chatbot Development  
+`SQL` · `AI & ML Basics` · `Rule-Based Chatbots`
 
 ---
 
 ## 🚀 Projects
-- 💬 **Asknova** – Rule-based chatbot for college procedure guidance  
-- 🌐 **Small Website Projects** – Built using HTML, CSS, and JavaScript  
-- 🤖 **IoT Bluetooth Connected Robo** – Smart robot controlled via Bluetooth  
+- **Asknova** – Rule-based chatbot for college guidance *(Python)*
+- **Small Website Projects** – Responsive web pages *(HTML, CSS, JS)*
+- **IoT Bluetooth Connected Robo** – Smart robot control *(IoT, Python)*
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midhuna-HUB&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midhuna-HUB&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Midhuna-HUB&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midhuna-HUB&theme=radical&border_radius=15" width="48%" />
 </p>
 
 ---
 
-## 🧰 Tools I Use
-- VS Code & IDLE  
-- Git & GitHub  
-- Power BI  
-- Tableau  
+## 🧰 Tools
+`VS Code` · `IDLE` · `Git` · `GitHub` · `Power BI` · `Tableau`
 
 ---
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhuna-HUB&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhuna-HUB&theme=react-dark&bg_color=0D1117&hide_border=true">
 </p>
 
 ---
 
-## 👀 Profile Visitors
+## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Midhuna-HUB&style=flat-square&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=Midhuna-HUB&label=Visitors&color=7F3FBF&style=flat-square">
 </p>
 
 ---
 
-✨ *Thank you for visiting my profile!  
-Feel free to explore my repositories and connect with me.*
+<h4 align="center">
+✨ Thanks for visiting my profile!  
+</h4>
