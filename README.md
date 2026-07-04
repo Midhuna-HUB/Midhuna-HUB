@@ -10,8 +10,6 @@ AI Student | Web Developer | Data Analyst | Aspiring AI Engineer
 </h3>
 
 ---
-
-## ✨ Typing Animation
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Student;Web+Developer;Data+Analyst;Aspiring+AI+Engineer;Python+%7C+SQL+%7C+Web+Tech&center=true&width=550&height=45&color=ffffff&background=000000">
 </p>
@@ -100,9 +98,7 @@ AI Student | Web Developer | Data Analyst | Aspiring AI Engineer
     ✨ Thanks for visiting!
   </h2>
 
-  <h4 style="color:#00c6ff; margin:5px 0;">
-    Let’s build something impactful together 🚀
-  </h4>
+  
 
 </div>
 
@@ -116,4 +112,3 @@ AI Student | Web Developer | Data Analyst | Aspiring AI Engineer
 ---
 
 ✨ *Thank you for visiting my profile!*  
-Feel free to explore my repositories and connect with me.
